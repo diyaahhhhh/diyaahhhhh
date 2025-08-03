@@ -14,4 +14,7 @@ C | Python | Java | HTM'
 
 ---
 
-Thx for visitng! 🩷
+Thx for visiting! 🩷
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+💖" />
+</p>
