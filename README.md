@@ -10,7 +10,7 @@ Welcome to my little corner 💻💕
 ---
 
 ### 🎀 Tech stack (still learning!) 
-C | Python | Java | HTM' 
+C | Python | Java | HTML  
 
 ---
 
