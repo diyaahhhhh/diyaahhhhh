@@ -15,4 +15,3 @@ C | Python | Java | HTML
 ---
 
 Thx for visiting! 🩷
-https://avatars.githubusercontent.com/u/183818472?v=4
