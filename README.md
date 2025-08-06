@@ -15,6 +15,4 @@ C | Python | Java | HTML
 ---
 
 Thx for visiting! 🩷
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+💖" alt="Typing SVG" />
-</p>
+https://avatars.githubusercontent.com/u/183818472?v=4
